@@ -1,0 +1,28 @@
+### Aliases ###
+# APT
+alias updt='sudo nala update; sudo nala upgrade'
+alias aptdt='sudo nala update'
+alias aptgr='sudo nala upgrade'
+alias aptin='sudo nala install'
+alias aptrm='sudo nala remove'
+alias aptpr='sudo nala purge'
+alias aptar='sudo nala autoremove'
+
+# CD
+alias .1='cd ..'
+alias .2='cd ../..'
+alias .3='cd ../../..'
+alias .4='cd ../../../..'
+alias .5='cd ../../../../..'
+
+# Confirmations
+alias cp="cp -i"
+alias mv='mv -i'
+alias rm='rm -i'
+
+# Random
+alias vi='nvim'
+alias ls='ls -lah --color=auto'
+alias mkdir='mkdir -pv'
+alias df='df -h'
+alias ifconfig='/sbin/ifconfig'
