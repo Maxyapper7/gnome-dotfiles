@@ -1,0 +1,387 @@
+11:57:56.705: Platform: Wayland
+11:57:56.705: CPU Name: 12th Gen Intel(R) Core(TM) i5-1240P
+11:57:56.705: CPU Speed: 1553.908MHz
+11:57:56.705: Physical Cores: 12, Logical Cores: 16
+11:57:56.705: Physical Memory: 31812MB Total, 18111MB Free
+11:57:56.705: Kernel Version: Linux 6.1.0-6-amd64
+11:57:56.705: Distribution: "KDE Flatpak runtime" "5.15-21.08"
+11:57:56.705: Session Type: wayland
+11:57:56.708: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+11:57:56.708: Portable mode: false
+11:57:56.754: OBS 29.0.2 (linux)
+11:57:56.754: ---------------------------------
+11:57:56.755: ---------------------------------
+11:57:56.755: audio settings reset:
+11:57:56.755: 	samples per sec: 48000
+11:57:56.755: 	speakers:        2
+11:57:56.755: 	max buffering:   960 milliseconds
+11:57:56.755: 	buffering type:  dynamically increasing
+11:57:56.760: ---------------------------------
+11:57:56.760: Initializing OpenGL...
+11:57:56.760: Using EGL/Wayland
+11:57:56.801: Initialized EGL 1.5
+11:57:56.825: Loading up OpenGL on adapter Intel Mesa Intel(R) Graphics (ADL GT2)
+11:57:56.825: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.3.5 (git-6570a15662), shading language 4.60
+11:57:56.874: ---------------------------------
+11:57:56.874: video settings reset:
+11:57:56.874: 	base resolution:   1920x1080
+11:57:56.874: 	output resolution: 1280x720
+11:57:56.874: 	downscale filter:  Bicubic
+11:57:56.874: 	fps:               30/1
+11:57:56.874: 	format:            NV12
+11:57:56.874: 	YUV mode:          Rec. 709/Partial
+11:57:56.874: NV12 texture support not available
+11:57:56.874: P010 texture support not available
+11:57:56.883: Audio monitoring device:
+11:57:56.883: 	name: Default
+11:57:56.883: 	id: default
+11:57:56.883: ---------------------------------
+11:57:56.908: No AJA devices found, skipping loading AJA UI plugin
+11:57:56.908: Failed to initialize module 'aja-output-ui.so'
+11:57:56.931: No AJA devices found, skipping loading AJA plugin
+11:57:56.931: Failed to initialize module 'aja.so'
+11:57:56.940: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:57:56.950: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:57:56.960: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:57:56.960: Failed to initialize module 'decklink.so'
+11:57:57.233: [pipewire] Available captures:
+11:57:57.233: [pipewire]     - Desktop capture
+11:57:57.233: [pipewire]     - Window capture
+11:57:57.272: [obs-browser]: Version 2.19.0
+11:57:57.272: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures_143.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+11:57:57.292: VAAPI: API version 1.15
+11:57:57.293: FFmpeg VAAPI H264 encoding supported
+11:57:57.353: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+11:57:57.353: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+11:57:57.353: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+11:57:57.362: [obs-websocket] [obs_module_load] Module loaded.
+11:57:57.405: [Move Transition] loaded version 2.8.2
+11:57:57.405: ---------------------------------
+11:57:57.405:   Loaded Modules:
+11:57:57.405:     move-transition.so
+11:57:57.405:     text-freetype2.so
+11:57:57.405:     rtmp-services.so
+11:57:57.405:     obs-x264.so
+11:57:57.405:     obs-websocket.so
+11:57:57.405:     obs-vst.so
+11:57:57.405:     obs-transitions.so
+11:57:57.405:     obs-outputs.so
+11:57:57.405:     obs-filters.so
+11:57:57.405:     obs-ffmpeg.so
+11:57:57.405:     obs-browser.so
+11:57:57.405:     linux-v4l2.so
+11:57:57.405:     linux-pulseaudio.so
+11:57:57.405:     linux-pipewire.so
+11:57:57.405:     linux-jack.so
+11:57:57.405:     linux-capture.so
+11:57:57.405:     image-source.so
+11:57:57.405:     frontend-tools.so
+11:57:57.405:     decklink-output-ui.so
+11:57:57.405:     decklink-captions.so
+11:57:57.405: ---------------------------------
+11:57:57.406: ==== Startup complete ===============================================
+11:57:57.460: All scene data cleared
+11:57:57.460: ------------------------------------------------
+11:57:57.473: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.65) 15.0.0'
+11:57:57.473: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+11:57:57.474: pulse-input: Started recording from 'bluez_output.D4_68_AA_76_56_EE.1.monitor' (default)
+11:57:57.474: Source ID 'alsa_input_capture' not found
+11:57:57.474: Failed to create source 'Mic'!
+11:57:57.476: [Media Source 'Boarder']: settings:
+11:57:57.476: 	input:                   /home/max/.config/obs-studio/assets/Webcam_4-3.webm
+11:57:57.476: 	input_format:            (null)
+11:57:57.476: 	speed:                   100
+11:57:57.476: 	is_looping:              yes
+11:57:57.476: 	is_linear_alpha:         no
+11:57:57.476: 	is_hw_decoding:          no
+11:57:57.476: 	is_clear_on_media_end:   yes
+11:57:57.476: 	restart_on_activate:     yes
+11:57:57.476: 	close_when_inactive:     no
+11:57:57.476: 	ffmpeg_options:          
+11:57:57.476: Set FFmpeg options: 
+11:57:57.476: v4l2-input: Start capture from /dev/video1
+11:57:57.597: v4l2-input: Input: 0
+11:57:57.602: v4l2-input: Resolution: 640x480
+11:57:57.602: v4l2-input: Pixelformat: MJPG
+11:57:57.602: v4l2-input: Linesize: 0 Bytes
+11:57:57.602: v4l2-input: Framerate: 60.00 fps
+11:57:57.603: v4l2-input: /dev/video1: select timeout set to 83333 (5x frame periods)
+11:57:57.608: [Media Source 'Timer']: settings:
+11:57:57.608: 	input:                   /home/max/.config/obs-studio/assets/Timer_5min.webm
+11:57:57.608: 	input_format:            (null)
+11:57:57.608: 	speed:                   100
+11:57:57.608: 	is_looping:              no
+11:57:57.608: 	is_linear_alpha:         no
+11:57:57.608: 	is_hw_decoding:          no
+11:57:57.608: 	is_clear_on_media_end:   yes
+11:57:57.608: 	restart_on_activate:     yes
+11:57:57.608: 	close_when_inactive:     no
+11:57:57.608: 	ffmpeg_options:          
+11:57:57.609: Set FFmpeg options: 
+11:57:57.623: [Media Source 'Dark (Stinger)']: settings:
+11:57:57.623: 	input:                   /home/max/.config/obs-studio/assets/Transition_Dark_wAudio.webm
+11:57:57.623: 	input_format:            (null)
+11:57:57.623: 	speed:                   100
+11:57:57.623: 	is_looping:              no
+11:57:57.623: 	is_linear_alpha:         no
+11:57:57.623: 	is_hw_decoding:          yes
+11:57:57.623: 	is_clear_on_media_end:   yes
+11:57:57.623: 	restart_on_activate:     yes
+11:57:57.623: 	close_when_inactive:     no
+11:57:57.623: 	ffmpeg_options:          
+11:57:57.624: Set FFmpeg options: 
+11:57:57.626: Switched to scene 'End'
+11:57:57.626: ------------------------------------------------
+11:57:57.626: Loaded scenes:
+11:57:57.627: - scene 'Start':
+11:57:57.627:     - source: 'Desktop' (scene)
+11:57:57.627:     - source: 'Overlay   ' (browser_source)
+11:57:57.627:     - source: 'Timer' (ffmpeg_source)
+11:57:57.627: - scene 'Just Chatting':
+11:57:57.627:     - source: 'Mic/Desktop' (scene)
+11:57:57.627:     - source: 'Overlay  ' (browser_source)
+11:57:57.627:     - source: 'Camera' (scene)
+11:57:57.627: - scene 'In Game':
+11:57:57.627:     - source: 'Camera' (scene)
+11:57:57.627:     - source: 'Mic/Desktop' (scene)
+11:57:57.627:     - source: 'Alerts' (browser_source)
+11:57:57.627:     - filter: 'Off Screen' (move_source_filter)
+11:57:57.627:     - filter: 'On Screen' (move_source_filter)
+11:57:57.627: - scene 'BRB':
+11:57:57.627:     - source: 'Overlay ' (browser_source)
+11:57:57.627:     - source: 'Desktop' (scene)
+11:57:57.627: - scene 'End':
+11:57:57.630:     - source: 'Overlay' (browser_source)
+11:57:57.630:     - source: 'Desktop' (scene)
+11:57:57.630: - scene '-- Not For Use --':
+11:57:57.630: - scene 'Camera':
+11:57:57.630:     - source: 'Cam' (v4l2_input)
+11:57:57.630:     - source: 'Boarder' (ffmpeg_source)
+11:57:57.630: - scene 'Mic/Desktop':
+11:57:57.630:     - source: 'Mic' (alsa_input_capture)
+11:57:57.630:     - source: 'Desktop ' (pulse_output_capture)
+11:57:57.630: - scene 'Desktop':
+11:57:57.630:     - source: 'Desktop ' (pulse_output_capture)
+11:57:57.630: ------------------------------------------------
+11:57:58.057: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop )
+11:57:58.057: 
+11:57:58.434: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-dCImnf5U50C6/yGGZrNBJ0w5/O+LgHlBid+gCtyw7PI='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:58.434:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:4)
+11:57:58.913: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://www.googletagmanager.com/gtm.js?id=GTM-M3DK7BQ' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:58.913:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:12)
+11:57:58.913: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-6gqJbjsMiD1pBtEN2cUrJLt606xrFdbwWpZN2XDxwuI='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:58.913:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:13)
+11:57:58.914: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://connect.facebook.net/en_US/fbevents.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:58.914:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:29)
+11:57:58.915: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-maij/MKKNLxS3DwY35FF4HpauKxGb6+Ey0flSHvhoOo='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:58.915:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:37)
+11:57:58.916: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-WxFBtoC7C66JrszGWKwseXIn8kenFJWcwcJzkWTOLB8='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:58.916:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:56)
+11:57:58.917: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://cdn.ribbonapp.com/ribbon.js?rid=781a845558dd49658488c7bd998bd68a' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:58.917:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:62)
+11:57:58.917: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-NoAQKuwPhOy5qhW9ocYcoZIxUN81KZme9oYYCIAkjrs='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:58.917:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:63)
+11:57:58.919: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://streamelements.com/overlay/scripts/vendor.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:58.919:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.133: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://www.google-analytics.com/gtm/optimize.js?id=GTM-KPFXH6X' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.133:  (https://www.googletagmanager.com/gtm.js?id=GTM-M3DK7BQ:48)
+11:57:59.150: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/825014237/?random=1679335079134&cv=11&fst=1679335079134&bg=ffffff&guid=ON&async=1&gtm=45He33f0&u_w=1920&u_h=1089&label=All%20visitors&hn=www.googleadservices.com&frm=0&url=https%3A%2F%2Fstreamelements.com%2Foverlay%2F6417d159419d5e7d758b4539%2FIJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1&tiba=StreamElements&uamb=0&uap=Linux&uaw=0&rfmt=3&fmt=4' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.150:  (https://www.googletagmanager.com/gtm.js?id=GTM-M3DK7BQ:48)
+11:57:59.197: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://connect.facebook.net/signals/config/118729892094447?v=2.9.99&r=stable' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.197:  (https://connect.facebook.net/en_US/fbevents.js:24)
+11:57:59.446: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:57:59.446:  (https://streamelements.com/overlay/scripts/vendor.js:48196)
+11:57:59.470: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://streamelements.com/overlay/scripts/app.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.470:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.753: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.753:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.754: User switched to scene 'BRB'
+11:57:59.755: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/2.7.0/twemoji.min.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.755:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.759: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://use.typekit.net/xbm0wzk.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.759:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.800: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+awR4QjK8l0Cuavh/A9QY8SXEpKLFIbwepHcapJS+Ak='), or a nonce ('nonce-...') is required to enable inline execution.
+11:57:59.800:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:69)
+11:57:59.800: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.800:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:0)
+11:57:59.828: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:57:59.828:  (https://streamelements.com/overlay/6417d159419d5e7d758b4539/IJcvqhGOUcY53pVrpmdCFToKY7QkmrH3SDPXQNShMJRLo9V1:63)
+11:58:00.228: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.228:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.235: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.235:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.263: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.263:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.265: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.265:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.270: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.270:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.278: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.278:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.280: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.280:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.281: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.281:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.311: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.311:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.312: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.312:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.423: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.423:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:00.429: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-pJ7Yfnrvl4FmExEhGF6fn5onOg494EN0tCFzTf2oNUw='), or a nonce ('nonce-...') is required to enable inline execution.
+11:58:00.429:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:00.429: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://www.redditstatic.com/ads/pixel.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:58:00.429:  (:2)
+11:58:00.599: [obs-browser: 'Overlay'] Error: Uncaught (in promise) AbortError: The play() request was interrupted by a new load request. https://goo.gl/LdLk22 (https://streamelements.com/overlay/scripts/vendor.js:25355)
+11:58:00.626: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.626:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.655: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.655:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.661: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.661:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.664: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.664:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.665: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.665:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.667: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.667:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.669: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.669:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.670: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.670:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.670: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.670:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.672: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.672:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.672: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.672:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.672: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.672:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.673: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.673:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.674: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.674:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.677: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.677:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.677: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.677:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.677: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.677:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.680: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.680:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.681: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.681:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.682: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.682:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.684: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.684:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.726: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.726:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.736: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.736:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.739: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.739:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.842: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.842:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.842: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.842:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.842: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.842:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.842: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.842:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.843: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.843:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.843: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.843:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:00.846: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:00.846:  (https://streamelements.com/overlay/scripts/vendor.js:62461)
+11:58:01.160: Last log entry repeated for 37 more lines
+11:58:01.160: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to load the script 'https://cdn.streamelements.com/scripts/jquery_3.3.1.min.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+11:58:01.160:  (about:srcdoc:0)
+11:58:01.171: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:01.171:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:01.202: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:01.202:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:01.209: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:01.209:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:01.218: [obs-browser: 'Overlay '] Error: Uncaught (in promise) AbortError: The play() request was interrupted by a new load request. https://goo.gl/LdLk22 (https://streamelements.com/overlay/scripts/vendor.js:25355)
+11:58:01.219: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+11:58:01.219:  (https://streamelements.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyU3RyZWFtRWxlbWVudHMlMjIlMkMlMjJ4JTIyJTNBMC4xMzA2OTczNDk1NDcwNTM4JTJDJTIydyUyMiUzQTE5MjAlMkMlMjJoJTIyJTNBMTA4OSUyQyUyMmolMjIlM0ExMDg5JTJDJTIyZSUyMiUzQTE5MjAlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdHJlYW1lbGVtZW50cy5jb20lMkZvdmVybGF5JTJGNjQxN2QxNTk0MTlkNWU3ZDc1OGI0NTM5JTJGSUpjdnFoR09VY1k1M3BWcnBtZENGVG9LWTdRa21ySDNTRFBYUU5TaE1KUkxvOVYxJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EwJTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTM2MCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmd0bS5zdGFydCUyMiUyQzE2NzkzMzUwNzg5MTElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlMkMlN0IlMjJtJTIyJTNBJTIyc2V0JTIyJTJDJTIyYSUyMiUzQSU1QiUyMmV2ZW50JTIyJTJDJTIyZ3RtLmpzJTIyJTJDJTdCJTIyc2NvcGUlMjIlM0ElMjJwYWdlJTIyJTdEJTVEJTdEJTJDJTdCJTIybSUyMiUzQSUyMnNldCUyMiUyQyUyMmElMjIlM0ElNUIlMjJndG0udW5pcXVlRXZlbnRJZCUyMiUyQzElMkMlN0IlMjJzY29wZSUyMiUzQSUyMnBhZ2UlMjIlN0QlNUQlN0QlNUQlN0Q=:1)
+11:58:01.261: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-Akb1LzQbee8UPE7E/JvxVwQE94/YC4jBiq2w8Xhtjqc='), or a nonce ('nonce-...') is required to enable inline execution.
+11:58:01.261:  (about:srcdoc:4)
+11:58:01.271: [obs-browser: 'Overlay  '] Error: [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-GM2eoNLk63a7hEM3fGGZYDz3b8uTndK92Znq7wnIZHU='), or a nonce ('nonce-...') is required to enable inline execution.
+11:58:01.271:  (about:srcdoc:339)
+11:58:02.554: User switched to scene 'End'
+11:58:09.467: User switched to scene 'Start'
+11:58:13.303: User switched to scene 'Just Chatting'
+11:58:15.753: User switched to scene 'Start'
+11:58:22.092: User switched to scene 'BRB'
+11:58:24.858: User switched to scene '-- Not For Use --'
+11:58:29.642: ==== Shutting down ==================================================
+11:58:29.665: v4l2-input: /dev/video1: Stopped capture after 1886 frames
+11:58:29.709: pulse-input: Stopped recording from 'bluez_output.D4_68_AA_76_56_EE.1.monitor'
+11:58:29.709: pulse-input: Got 1287 packets with 1544400 frames
+11:58:29.758: All scene data cleared
+11:58:29.758: ------------------------------------------------
+11:58:29.824: [obs-websocket] [obs_module_unload] Shutting down...
+11:58:29.825: [obs-websocket] [obs_module_unload] Finished shutting down.
+11:58:29.855: [Scripting] Total detached callbacks: 0
+11:58:29.856: Freeing OBS context data
+11:58:29.883: == Profiler Results =============================
+11:58:29.883: run_program_init: 1201.7 ms
+11:58:29.883:  ┣OBSApp::AppInit: 4.517 ms
+11:58:29.883:  ┃ ┗OBSApp::InitLocale: 1.593 ms
+11:58:29.883:  ┗OBSApp::OBSInit: 993.815 ms
+11:58:29.883:    ┣obs_startup: 3.838 ms
+11:58:29.883:    ┗OBSBasic::OBSInit: 943.653 ms
+11:58:29.883:      ┣OBSBasic::InitBasicConfig: 0.124 ms
+11:58:29.884:      ┣OBSBasic::ResetAudio: 0.263 ms
+11:58:29.884:      ┣OBSBasic::ResetVideo: 128.215 ms
+11:58:29.884:      ┣OBSBasic::InitOBSCallbacks: 0.008 ms
+11:58:29.884:      ┣OBSBasic::InitHotkeys: 0.055 ms
+11:58:29.884:      ┣obs_load_all_modules2: 521.771 ms
+11:58:29.884:      ┃ ┣obs_init_module(aja-output-ui.so): 0.143 ms
+11:58:29.884:      ┃ ┣obs_init_module(aja.so): 0.125 ms
+11:58:29.884:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+11:58:29.884:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+11:58:29.884:      ┃ ┣obs_init_module(decklink.so): 0.161 ms
+11:58:29.884:      ┃ ┣obs_init_module(frontend-tools.so): 135.714 ms
+11:58:29.884:      ┃ ┣obs_init_module(image-source.so): 0.02 ms
+11:58:29.884:      ┃ ┣obs_init_module(linux-capture.so): 0.001 ms
+11:58:29.884:      ┃ ┣obs_init_module(linux-jack.so): 0.008 ms
+11:58:29.884:      ┃ ┣obs_init_module(linux-pipewire.so): 3.98 ms
+11:58:29.884:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+11:58:29.884:      ┃ ┣obs_init_module(linux-v4l2.so): 0.096 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-browser.so): 0.132 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-ffmpeg.so): 9.036 ms
+11:58:29.884:      ┃ ┃ ┗nvenc_check: 0.865 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-filters.so): 0.057 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-outputs.so): 0.005 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-transitions.so): 0.02 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-vst.so): 0.007 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-websocket.so): 8.2 ms
+11:58:29.884:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+11:58:29.884:      ┃ ┣obs_init_module(rtmp-services.so): 1.357 ms
+11:58:29.884:      ┃ ┣obs_init_module(text-freetype2.so): 0.02 ms
+11:58:29.884:      ┃ ┗obs_init_module(move-transition.so): 0.13 ms
+11:58:29.884:      ┣OBSBasic::ResetOutputs: 5.756 ms
+11:58:29.884:      ┣OBSBasic::CreateHotkeys: 0.073 ms
+11:58:29.884:      ┣OBSBasic::InitService: 2.296 ms
+11:58:29.884:      ┣OBSBasic::InitPrimitives: 0.53 ms
+11:58:29.884:      ┗OBSBasic::Load: 224.106 ms
+11:58:29.884: obs_hotkey_thread(25 ms): min=0 ms, median=0.002 ms, max=0.146 ms, 99th percentile=0.008 ms, 100% below 25 ms
+11:58:29.884: audio_thread(Audio): min=0.023 ms, median=0.131 ms, max=12.495 ms, 99th percentile=1.452 ms
+11:58:29.884: obs_graphics_thread(33.3333 ms): min=0.102 ms, median=1.009 ms, max=138.641 ms, 99th percentile=9.205 ms, 99.797% below 33.333 ms
+11:58:29.884:  ┣tick_sources: min=0.001 ms, median=0.04 ms, max=137.97 ms, 99th percentile=1.247 ms
+11:58:29.884:  ┣output_frame: min=0.053 ms, median=0.492 ms, max=19.502 ms, 99th percentile=6.385 ms
+11:58:29.884:  ┃ ┗gs_context(video->graphics): min=0.052 ms, median=0.491 ms, max=19.5 ms, 99th percentile=6.384 ms
+11:58:29.884:  ┃   ┣render_video: min=0.034 ms, median=0.267 ms, max=17.427 ms, 99th percentile=5.871 ms
+11:58:29.884:  ┃   ┃ ┗render_main_texture: min=0.028 ms, median=0.259 ms, max=17.419 ms, 99th percentile=5.862 ms
+11:58:29.884:  ┃   ┗gs_flush: min=0.009 ms, median=0.175 ms, max=3.67 ms, 99th percentile=0.43 ms
+11:58:29.884:  ┗render_displays: min=0.003 ms, median=0.289 ms, max=44.588 ms, 99th percentile=1.024 ms
+11:58:29.884: =================================================
+11:58:29.884: == Profiler Time Between Calls ==================
+11:58:29.884: obs_hotkey_thread(25 ms): min=25.045 ms, median=25.116 ms, max=28.509 ms, 99.1635% within ±2% of 25 ms (0% lower, 0.836502% higher)
+11:58:29.884: obs_graphics_thread(33.3333 ms): min=16.97 ms, median=33.333 ms, max=138.724 ms, 99.187% within ±2% of 33.333 ms (0.406504% lower, 0.406504% higher)
+11:58:29.884: =================================================
+11:58:29.901: Number of memory leaks: 0
